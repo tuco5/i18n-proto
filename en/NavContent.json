@@ -1,0 +1,1520 @@
+[
+    {
+        "id": "0",
+        "label": "all categories",
+        "path": "\/",
+        "isDisplayedInFilter": "1",
+        "placeholder": "Search Mockups, Logos, Design Templates, Text Animations, Instagram Stories, Flyers..."
+    },
+    {
+        "id": "1",
+        "label": "Mockups",
+        "path": "\/c\/mockups",
+        "placeholder": "Search Tshirt, Mask, Book, Mug, Hoodie, iPhone...",
+        "isDisplayedInFilter": "1",
+        "categories": [
+            {
+                "id": "0",
+                "label": "Highlights",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "AI Generated Images",
+                        "path": "\/ai-generated-images",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Graduation Mockups",
+                        "path": "\/c\/mockups\/?f_tags=graduation",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Merch Videos",
+                        "path": "\/merch-videos",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Pride Mockups",
+                        "path": "\/pride-templates?f_tags=Apparel&ignore=true",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "label": "Apparel",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "3D Mockups",
+                        "path": "\/3d-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "All Apparel ",
+                        "path": "\/apparel-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Face Masks",
+                        "path": "\/face-mask-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Hats",
+                        "path": "\/hat-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Hoodies",
+                        "path": "\/hoodie-mockup-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Leggings",
+                        "path": "\/leggings-mockup",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "Merch Videos ",
+                        "path": "\/merch-videos",
+                        "pill": ""
+                    },
+                    {
+                        "id": "7",
+                        "label": "Onesies",
+                        "path": "\/baby-onesie-mockup",
+                        "pill": ""
+                    },
+                    {
+                        "id": "8",
+                        "label": "Products-Only",
+                        "path": "\/garment-only-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "9",
+                        "label": "Sports Bras",
+                        "path": "\/sports-bra-mockup",
+                        "pill": ""
+                    },
+                    {
+                        "id": "10",
+                        "label": "Sportswear ",
+                        "path": "\/sportswear-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "11",
+                        "label": "Sweatshirts",
+                        "path": "\/sweatshirt-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "12",
+                        "label": "T-Shirts",
+                        "path": "\/tshirt-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "13",
+                        "label": "Tank Tops",
+                        "path": "\/tank-top-mockup-generator",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "label": "Digital",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All Digital",
+                        "path": "\/digital-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Android",
+                        "path": "\/android-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "App Demos",
+                        "path": "\/app-video-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "MacBooks",
+                        "path": "\/macbook-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "iMacs",
+                        "path": "\/imac-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "iOS Screenshots",
+                        "path": "\/app-store-screenshot-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "iPad Mockups",
+                        "path": "\/ipad-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "7",
+                        "label": "iPhone Mockups",
+                        "path": "\/iphone-mockup-generator",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "label": "Print",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All Print ",
+                        "path": "\/c\/mockups\/?f_tags=Print",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Books",
+                        "path": "\/book-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Business Cards",
+                        "path": "\/business-card-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Flyers",
+                        "path": "\/flyer-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Magazines",
+                        "path": "\/magazine-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Packaging",
+                        "path": "\/packaging-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "Posters",
+                        "path": "\/poster-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "7",
+                        "label": "Stationery",
+                        "path": "\/stationery-mockups",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "label": "Print on Demand",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All POD",
+                        "path": "\/print-on-demand",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Bags",
+                        "path": "\/tote-bag-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Coffee Mugs",
+                        "path": "\/coffee-mug-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Drinkware",
+                        "path": "\/print-on-demand?f_tags=drinkware",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Phone Cases",
+                        "path": "\/iphone-case-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Phone Grips",
+                        "path": "\/phone-grip-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "Pillows",
+                        "path": "\/pillow-mockups-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "7",
+                        "label": "T-Shirts",
+                        "path": "\/tshirt-mockup-generator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "8",
+                        "label": "Travel Mugs",
+                        "path": "\/travel-mug-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "9",
+                        "label": "Wall Art",
+                        "path": "\/print-on-demand?f_devices=Art%20Print",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "label": "Promotional ",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Banners",
+                        "path": "\/banner-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Billboards",
+                        "path": "\/banner-mockups?f_devices=Billboard",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Facebook Ads",
+                        "path": "\/facebook-ad-mockups",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Mupis",
+                        "path": "\/banner-mockups?f_devices=Mupi",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Signs",
+                        "path": "\/banner-mockups?f_devices=Sign",
+                        "pill": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "label": "Designs",
+        "path": "\/c\/design-templates",
+        "placeholder": "Search Banner, YouTube Banner, OBS Stream Overlay, Fortnite...",
+        "isDisplayedInFilter": "1",
+        "categories": [
+            {
+                "id": "0",
+                "label": "Highlights",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Blank Canvas",
+                        "path": "\/c\/design-templates\/stages\/blank-canvas-designs",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Free Templates",
+                        "path": "\/free-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Graduation Designs",
+                        "path": "\/c\/design-templates\/?f_tags=graduation",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Pride T-Shirts",
+                        "path": "\/pride-templates?f_devices=T-Shirt%20Design",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "label": "Apparel & Print",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Book Covers",
+                        "path": "\/book-cover-designs",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Business Cards",
+                        "path": "\/online-business-card-maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Flyers",
+                        "path": "\/flyer-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Posters",
+                        "path": "\/poster-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Size Charts",
+                        "path": "\/?f_tags=Size%20Chart",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "T-Shirt Designs",
+                        "path": "\/t-shirt-design-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "T-Shirt Labels",
+                        "path": "\/t-shirt-label-design",
+                        "pill": ""
+                    },
+                    {
+                        "id": "7",
+                        "label": "Tote Bag Designs",
+                        "path": "\/print-on-demand?f_devices=Tote%20Bag%20Design",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "label": "Gaming",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Discord Themes",
+                        "path": "\/gaming-templates?f_devices=Discord%20Theme%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Lower Third Banners",
+                        "path": "\/youtube-templates?f_devices=Lower%20Third",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Twitch Templates",
+                        "path": "\/twitch-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "YouTube Templates",
+                        "path": "\/gaming-templates?f_types=image&f_tags=YouTube%20Templates",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "label": "Music & Podcasts",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Album Covers",
+                        "path": "\/album-cover-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Music T-Shirts",
+                        "path": "\/musician-templates?f_devices=T-Shirt%20Design",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Podcast Covers",
+                        "path": "\/podcast-cover-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Poster Templates",
+                        "path": "\/musician-templates?f_devices=Poster%20Maker",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "label": "Social Media",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All Social Media",
+                        "path": "\/social-media-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Banner Ads",
+                        "path": "\/online-banner-maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Facebook Covers",
+                        "path": "\/facebook-cover-photo-maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Facebook Posts",
+                        "path": "\/facebook-post-template",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Fiverr Templates",
+                        "path": "\/social-media-templates?f_devices=Fiverr%20Gig%20Image%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Instagram Posts",
+                        "path": "\/instagram-post-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "Instagram Stories",
+                        "path": "\/social-media-templates?f_devices=Instagram%20Story%20Template",
+                        "pill": ""
+                    },
+                    {
+                        "id": "7",
+                        "label": "Patreon Templates",
+                        "path": "\/social-media-templates?f_tags=Patreon%20Templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "8",
+                        "label": "Pinterest ",
+                        "path": "\/pinterest-pin-maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "9",
+                        "label": "Social Media Sets",
+                        "path": "\/social-media-templates?f_tags=Bundles",
+                        "pill": ""
+                    },
+                    {
+                        "id": "10",
+                        "label": "TikTok Videos",
+                        "path": "\/social-media-templates?f_tags=TikTok%20Templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "11",
+                        "label": "Twitter Headers",
+                        "path": "\/twitter-header-template",
+                        "pill": ""
+                    },
+                    {
+                        "id": "12",
+                        "label": "Twitter Posts",
+                        "path": "\/twitter-post-template",
+                        "pill": ""
+                    },
+                    {
+                        "id": "13",
+                        "label": "YouTube Banners",
+                        "path": "\/youtube-channel-banner-maker",
+                        "pill": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "label": "Logos",
+        "path": "\/logo-maker",
+        "placeholder": "Search Gaming, Pubg, Dragon, Skull...",
+        "isDisplayedInFilter": "1",
+        "categories": [
+            {
+                "id": "0",
+                "label": "Highlights",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Fantasy Logos",
+                        "path": "\/logo-maker?industry=Fantasy&industryId=Fantasy",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Retro Logos",
+                        "path": "\/logo-maker?industry=Retro&industryId=Retro",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Sports Logos",
+                        "path": "\/logo-maker?industry=Sports+Logos&industryId=Sports+Logos",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "label": "Architecture & Design",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Architects",
+                        "path": "\/logo-maker?industry=Architect&industryId=Architect",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Designers",
+                        "path": "\/logo-maker?industry=Design&industryId=Design",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Florist",
+                        "path": "\/logo-maker?industry=Florist&industryId=Florist",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "label": "Clothing & Beauty",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Beauty",
+                        "path": "\/logo-maker?industry=Beauty&industryId=Beauty",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Clothing Brands",
+                        "path": "\/logo-maker?industry=Clothing%20Brand&industryId=Clothing%20Brand",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Jewelry",
+                        "path": "\/logo-maker?industry=Jewelry&industryId=Jewelry",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Streetwear",
+                        "path": "\/logo-maker?industry=Streetwear&industryId=Streetwear",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "label": "Education & Arts",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Daycare",
+                        "path": "\/logo-maker?industry=Daycare&industryId=Daycare",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Education",
+                        "path": "\/logo-maker?industry=Education&industryId=Education",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Photographers",
+                        "path": "\/logo-maker?industry=Photography&industryId=Photography",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Writers \/ Publishers",
+                        "path": "\/logo-maker?industry=Writer&industryId=Writer",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "label": "Finance & Legal",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Consulting",
+                        "path": "\/logo-maker?industry=Consulting&industryId=Consulting",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Finance",
+                        "path": "\/logo-maker?industry=Finance&industryId=Finance",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Law Firms",
+                        "path": "\/logo-maker?industry=Law&industryId=Law",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Realtors",
+                        "path": "\/logo-maker?industry=Real%20Estate&industryId=Real%20Estate",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "label": "Food & Events",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Bakeries",
+                        "path": "\/logo-maker?industry=Bakery&industryId=Bakery",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Bars & Pubs",
+                        "path": "\/logo-maker?industry=Bar&industryId=Bar",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Catering",
+                        "path": "\/logo-maker?industry=Catering&industryId=Catering",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Coffee Shops",
+                        "path": "\/logo-maker?industry=Coffee%20Shop&industryId=Coffee%20Shop",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Event Planners",
+                        "path": "\/logo-maker?industry=Event%20Planner&industryId=Event%20Planner",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Restaurants",
+                        "path": "\/logo-maker?industry=Restaurant&industryId=Restaurant",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "Wedding ",
+                        "path": "\/logo-maker?industry=Wedding&industryId=Wedding",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "label": "Gaming",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All Gaming Logos",
+                        "path": "\/gaming-templates?f_devices=Logo%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Anime",
+                        "path": "\/logo-maker?industry=Anime&industryId=Anime",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Emblem",
+                        "path": "\/logo-maker?industry=Emblem&industryId=Emblem",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "FPS",
+                        "path": "\/logo-maker?industry=Shooters&industryId=Shooters",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Fantasy",
+                        "path": "\/logo-maker?industry=Fantasy&industryId=Fantasy",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Horror",
+                        "path": "\/logo-maker?industry=Horror&industryId=Horror",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "MOBA",
+                        "path": "\/logo-maker?industry=MOBA&industryId=MOBA",
+                        "pill": ""
+                    },
+                    {
+                        "id": "7",
+                        "label": "Space",
+                        "path": "\/logo-maker?industry=Space&industryId=Space",
+                        "pill": ""
+                    },
+                    {
+                        "id": "8",
+                        "label": "Warriors",
+                        "path": "\/logo-maker?industry=Warriors&industryId=Warriors",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "label": "Healthcare",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All Healthcare Logos",
+                        "path": "\/logo-maker?industry=Medical&industryId=Health%20Care",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Chiropractors",
+                        "path": "\/logo-maker?industry=Chiropractic&industryId=Chiropractic",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Dentists",
+                        "path": "\/logo-maker?industry=Dental&industryId=Dental",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Doctors",
+                        "path": "\/logo-maker?industry=Medical&industryId=Medical",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Pharmacists",
+                        "path": "\/logo-maker?industry=Pharmaceutical&industryId=Pharmaceutical",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Psychologists",
+                        "path": "\/logo-maker?industry=Psychologist&industryId=Psychologist",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "8",
+                "label": "Lifestyle & Fitness",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Fitness",
+                        "path": "\/logo-maker?industry=Fitness&industryId=Fitness",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Organic Products",
+                        "path": "\/logo-maker?industry=Organic%20Products&industryId=Organic%20Products",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Wellness",
+                        "path": "\/logo-maker?industry=Wellness&industryId=Wellness",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Yoga",
+                        "path": "\/logo-maker?industry=Yoga&industryId=Yoga",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "9",
+                "label": "Music & Podcasts",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "DJ ",
+                        "path": "\/logo-maker?industry=DJ&industryId=DJ",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Hip-Hop",
+                        "path": "\/hip-hop-templates?f_devices=Logo%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Music Logos",
+                        "path": "\/musician-templates?f_devices=Logo%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Podcasts",
+                        "path": "\/logo-maker?industry=Podcast&industryId=Podcast",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "YouTubers",
+                        "path": "\/logo-maker?industry=all&industryId=YouTube",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "label": "Services",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All Service Logos",
+                        "path": "\/logo-maker?industry=Service%20Provider&industryId=Services",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Automotive ",
+                        "path": "\/logo-maker?industry=Automotive&industryId=Automotive",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Cleaning Services",
+                        "path": "\/logo-maker?industry=Cleaning%20Services&industryId=Cleaning%20Services",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Contractors",
+                        "path": "\/logo-maker?industry=Contractor%2FHandyman&industryId=Contractor%2FHandyman",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Landscaping",
+                        "path": "\/logo-maker?industry=Landscaping&industryId=Landscaping",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Moving Companies",
+                        "path": "\/logo-maker?industry=Moving%20Company&industryId=Moving%20Companies",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "Security",
+                        "path": "\/logo-maker?industry=Security&industryId=Security",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "11",
+                "label": "Shops",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Arts & Crafts",
+                        "path": "\/logo-maker?industry=Arts%20and%20Crafts&industryId=Arts%20and%20Crafts",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Dropshipping",
+                        "path": "\/logo-maker?industry=Dropshipping&industryId=Dropshipping",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Pet Shops",
+                        "path": "\/logo-maker?industry=Pets&industryId=Pets",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Technology",
+                        "path": "\/logo-maker?industry=Technology&industryId=Technology",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Travel Agencies",
+                        "path": "\/logo-maker?industry=Travel&industryId=Travel",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "12",
+                "label": "Sports Logos",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All Sports",
+                        "path": "\/logo-maker?industry=Sports+Logos&industryId=Sports+Logos",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Baseball",
+                        "path": "\/logo-maker?industry=Baseball&industryId=Baseball",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Basketball",
+                        "path": "\/logo-maker?industry=Basketball&industryId=Basketball",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Football",
+                        "path": "\/logo-maker?industry=Football&industryId=Football",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Hockey",
+                        "path": "\/logo-maker?industry=Hockey&industryId=Hockey",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Mascot Logos",
+                        "path": "\/logo-maker?industry=Mascot%20Logo",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "Soccer",
+                        "path": "\/logo-maker?industry=Soccer&industryId=Soccer",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "13",
+                "label": "Style",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Abstract",
+                        "path": "\/logo-maker?industry=Abstract&industryId=Abstract",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Cartoonish",
+                        "path": "\/logo-maker?industry=Cartoonish&industryId=Cartoonish",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Illustration",
+                        "path": "\/logo-maker?industry=Illustration&industryId=Illustration",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Monogram",
+                        "path": "\/logo-maker?industry=Monogram&industryId=Monogram",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Retro",
+                        "path": "\/logo-maker?industry=Retro&industryId=Retro",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Typography",
+                        "path": "\/logo-maker?industry=Typography&industryId=Typography",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "Vintage",
+                        "path": "\/logo-maker?industry=Vintage&industryId=Vintage",
+                        "pill": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "label": "Videos",
+        "path": "\/videos",
+        "placeholder": "Search Intro Video, Outro, Music, Anime...",
+        "isDisplayedInFilter": "1",
+        "categories": [
+            {
+                "id": "0",
+                "label": "Highlights",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Corporate Videos",
+                        "path": "\/corporate-videos",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Express Videos",
+                        "path": "\/express-video-maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Pride Videos",
+                        "path": "\/pride-templates?f_types=video&ignore=true",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "label": "Gaming",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Animated Logos",
+                        "path": "\/animated-logos",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Twitch Screens",
+                        "path": "\/stream-starting-soon-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "YouTube Videos",
+                        "path": "\/youtube-video-templates?f_tags=Gaming",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "label": "Intros & Slideshows",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Intros \/ Outros",
+                        "path": "\/video-intro-maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Slideshows",
+                        "path": "\/video-slideshow-maker",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "label": "Social Media",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Facebook Covers",
+                        "path": "\/facebook-cover-video-maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Instagram Posts ",
+                        "path": "\/instagram-video-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Instagram Stories",
+                        "path": "\/instagram-story-video-template",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Promo Videos",
+                        "path": "\/promo-video-templates",
+                        "pill": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "label": "Gaming",
+        "path": "\/gaming-templates",
+        "placeholder": "Search Fortnite, Pubg, Free Fire...",
+        "isDisplayedInFilter": "1",
+        "categories": [
+            {
+                "id": "0",
+                "label": "Highlights",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Animated Logos",
+                        "path": "\/animated-logos",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Anime Logos",
+                        "path": "\/logo-maker?industry=anime&industryId=Anime",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Gaming Logos",
+                        "path": "\/gaming-templates?f_devices=Logo%20Maker",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "label": "Merch",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Gaming Mockups",
+                        "path": "\/gaming-templates?f_tags=Apparel%2CPrint",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "T-Shirt Designs",
+                        "path": "\/gaming-templates?f_devices=T-Shirt%20Design",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "label": "Streaming",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Avatars",
+                        "path": "\/avatar-creator",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "OBS Stream Overlay",
+                        "path": "\/gaming-templates?f_devices=OBS%20Stream%20Overlay%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Starting Soon Screens",
+                        "path": "\/stream-starting-soon-templates",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "label": "Twitch Templates",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All Twitch Templates",
+                        "path": "\/twitch-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Twitch Banners",
+                        "path": "\/twitch-banner-maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Twitch Emotes",
+                        "path": "\/twitch-emotes",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Twitch Offline Banners",
+                        "path": "\/twitch-offline-banner-templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Twitch Overlays",
+                        "path": "\/gaming-templates?f_devices=Twitch%20Overlay%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "5",
+                        "label": "Twitch Panels",
+                        "path": "\/gaming-templates?f_devices=Twitch%20Panel%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "6",
+                        "label": "Twitch Sets",
+                        "path": "\/twitch-templates?f_tags=Twitch%20Sets",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "label": "YouTube",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "All YouTube Templates",
+                        "path": "\/gaming-templates?f_tags=YouTube%20Templates",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Intros \/ Outros",
+                        "path": "\/gaming-templates?f_devices=Intro%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "YouTube Banners",
+                        "path": "\/gaming-templates?f_devices=YouTube%20Banner%20Maker",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "YouTube End Cards",
+                        "path": "\/gaming-templates?f_devices=YouTube%20End%20Card",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "YouTube Thumbnails",
+                        "path": "\/gaming-templates?f_devices=YouTube%20Thumbnail%20Maker",
+                        "pill": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "label": "Learn",
+        "path": "\/#learn",
+        "isDisplayedInFilter": "0",
+        "categories": [
+            {
+                "id": "0",
+                "label": "Blog",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Blog",
+                        "path": "https:\/\/blog.placeit.net\/",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "label": "Design",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Branding",
+                        "path": "https:\/\/blog.placeit.net\/category\/marketing\/branding\/",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Color",
+                        "path": "https:\/\/blog.placeit.net\/logo-color-schemes-a-complete-guide-on-all-you-need-to-know\/",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Fonts",
+                        "path": "https:\/\/blog.placeit.net\/how-to-choose-the-best-fonts-logos\/",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Logo Design",
+                        "path": "https:\/\/blog.placeit.net\/category\/designs\/logo-design\/",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "label": "Marketing",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Small Business",
+                        "path": "https:\/\/blog.placeit.net\/category\/marketing\/freelancing\/",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Social Media",
+                        "path": "https:\/\/blog.placeit.net\/category\/marketing\/social-media-design\/",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "label": "Placeit 101",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "FAQ",
+                        "path": "\/faq",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Tutorials",
+                        "path": "https:\/\/blog.placeit.net\/category\/tutorials\/",
+                        "pill": ""
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "label": "Tools",
+                "subCategories": [
+                    {
+                        "id": "0",
+                        "label": "Blank Canvas",
+                        "path": "\/c\/design-templates\/stages\/blank-canvas-designs",
+                        "pill": ""
+                    },
+                    {
+                        "id": "1",
+                        "label": "Image Resizer",
+                        "path": "\/image-cropper",
+                        "pill": ""
+                    },
+                    {
+                        "id": "2",
+                        "label": "Profit Calculator",
+                        "path": "https:\/\/blog.placeit.net\/online-tshirt-business-profit-margin-calculator\/",
+                        "pill": ""
+                    },
+                    {
+                        "id": "3",
+                        "label": "Video Cropper",
+                        "path": "\/video-cropper",
+                        "pill": ""
+                    },
+                    {
+                        "id": "4",
+                        "label": "Video to GIF Converter",
+                        "path": "\/video-to-gif-converter",
+                        "pill": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
